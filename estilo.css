@@ -30,7 +30,7 @@ html{
 .contenedor-header header .logo a{
     font-family: 'Righteous';
     font-size: 36px;
-    color: #fff;
+    color: #1CB698;
     text-decoration: none;
 }
 .contenedor-header header ul{
@@ -572,6 +572,10 @@ html{
     padding: 5px;
     margin: 5px;
 
+}
+.contacto .contenido-seccion .redes a :hover{
+    background-color: #1CB698;
+    transform: translateY(-20px);
 }
 /*Formulario
 .contacto .fila{
